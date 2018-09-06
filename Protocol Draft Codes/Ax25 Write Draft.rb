@@ -1,8 +1,9 @@
 
 require 'cosmos/interfaces/protocols/protocol'
+require_relative 'add_sig_encrypt' #unsure
 
 module Cosmos
-    class Ax25WriteProtocol < Protocol
+    class Ax25WriteProtocol < AddSigEncrypt
         AX25_CONTROL_ARR = "\x03".bytes
         AX25_PID_ARR = "\xF0".bytes
 

@@ -1,4 +1,6 @@
+
 require ('openssl')
+require 'cosmos/interfaces/protocols/protocol'
 
 # NOTE: https://blog.bigbinary.com/2011/07/20/ruby-pack-unpack.html
 # This explains how to pack and unpack data.

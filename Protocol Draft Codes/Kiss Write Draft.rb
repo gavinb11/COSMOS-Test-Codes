@@ -1,5 +1,6 @@
 
 require 'cosmos/interfaces/protocols/protocol'
+require_relative 'ax25_write_protocol' #unsure
 
 module Cosmos
     class KissWriteProtocol < Ax25WriteProtocol

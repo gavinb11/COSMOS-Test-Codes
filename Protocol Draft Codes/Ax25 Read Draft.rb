@@ -1,5 +1,6 @@
 
 require 'cosmos/interfaces/protocols/protocol'
+require_relative 'kiss_read_protocol' #unsure
 
 module Cosmos
     class Ax25ReadProtocol < KissReadProtocol
