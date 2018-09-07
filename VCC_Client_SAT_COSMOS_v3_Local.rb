@@ -1,5 +1,6 @@
 
 #Client for VCCSender
+#these packets are not real packets
 
 #Require
 require "socket"
