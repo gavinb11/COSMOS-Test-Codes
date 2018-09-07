@@ -13,7 +13,7 @@ Repository for the VT Ceres COSMOS implementation and configuration files.
 
 ## Versions
 ### Version 1.2 (v1.2)
-**UNTESTED**  
+**_UNTESTED_**  
 Complete project folder.  Includes all project files needed to clone the repo and execute COSMOS.  
 Multiple protocol codes that handle KISS and AX.25 when reading and writing packets and Signature when writing packets.  
 Packet definitions:  
