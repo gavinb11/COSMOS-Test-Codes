@@ -2,7 +2,7 @@
 Basic server, client, and AX25/KISS processing files.
 
 # COSMOS - Ceres
-#####Repository for VT Ceres COSMOS implementation and configuration files.
+##### Repository for VT Ceres COSMOS implementation and configuration files.
 
 ## Background
 ### Virginia CubeSat Constellation - Virgnia Tech
