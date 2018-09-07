@@ -2,11 +2,13 @@
 Basic server, client, and AX25/KISS processing files.
 
 # COSMOS - Ceres
+#####Repository for VT Ceres COSMOS implementation and configuration files.
 
 ## Background
 ### Virginia CubeSat Constellation - Virgnia Tech
 Ceres is a CubeSat designed and built by students at Virginia Tech (VT) as a part of the Virginia CubeSat Constellation (VCC).  
-Repository for the VT Ceres COSMOS implementation and configuration files.
+Expected Launch Date: 11/27/2018  
+Expected Deployment Date: Early 2019  
 
 ### Ball Aerospace COSMOS
 [COSMOS](https://cosmosrb.com/) is a set of 15 applications that can be used to control a set of embedded systems.  It is an [Open Source](https://github.com/BallAerospace/COSMOS) project from Ball Aerospace and the code is available on GitHub.  Multiple organizations are using COSMOS to control small satellites.
