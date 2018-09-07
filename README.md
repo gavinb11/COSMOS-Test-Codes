@@ -27,7 +27,7 @@ Packet definitions:
 &nbsp;&nbsp;&nbsp;&nbsp;_Uplink: VCC Uplink Packet Definitions - 20180906 - 2_  
 &nbsp;&nbsp;&nbsp;&nbsp;_Downlink: VCC Downlink Packet Definitions - 20180906_  
 
-## Version 1.0 (v1.0)
+### Version 1.0 (v1.0)
 First version implemented by Gavin Brown, Summer 2018.  
 Only contains config directory, and not complete COSMOS project.  
 
