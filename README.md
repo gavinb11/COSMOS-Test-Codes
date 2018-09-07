@@ -17,15 +17,15 @@ Repository for the VT Ceres COSMOS implementation and configuration files.
 Complete project folder.  Includes all project files needed to clone the repo and execute COSMOS.  
 Multiple protocol codes that handle KISS and AX.25 when reading and writing packets and Signature when writing packets.  
 Packet definitions:  
-&nbsp;&nbsp;&nbsp;VCC Uplink Packet Definitions - 20180906 - 2  
-&nbsp;&nbsp;&nbsp;VCC Downlink Packet Definitions - 20180906  
+    * Uplink: VCC Uplink Packet Definitions - 20180906 - 2  
+    * Downlink: VCC Downlink Packet Definitions - 20180906  
 
 ### Version 1.1 (v1.1)
 Complete project folder.  Includes all project files needed to clone the repo and execute COSMOS.  
 Single protocol code that handles KISS and AX.25 when reading and writing packets.  
 Packet definitions:  
-&nbsp;&nbsp;&nbsp;VCC Uplink Packet Definitions - 20180906 - 2  
-&nbsp;&nbsp;&nbsp;VCC Downlink Packet Definitions - 20180906  
+    * Uplink: VCC Uplink Packet Definitions - 20180906 - 2  
+    * Downlink: VCC Downlink Packet Definitions - 20180906  
 
 ## Version 1.0 (v1.0)
 First version implemented by Gavin Brown, Summer 2018.  
